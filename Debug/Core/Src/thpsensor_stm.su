@@ -1,0 +1,3 @@
+thpsensor_stm.c:77:30:BLEDevice_Event_Handler	56	static
+thpsensor_stm.c:135:6:SVCCTL_BLEDeviceInitCustomSvc	48	static
+thpsensor_stm.c:264:12:BLEDevice_STM_App_Update_Char	32	static

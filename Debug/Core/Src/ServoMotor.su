@@ -1,0 +1,3 @@
+ServoMotor.cpp:14:1:ServoMotor::ServoMotor(uint16_t, uint16_t, uint16_t, uint16_t, uint16_t, uint16_t)	24	static
+ServoMotor.cpp:25:6:void ServoMotor::SetCurrValue(uint16_t)	24	static
+ServoMotor.cpp:42:10:uint16_t ServoMotor::GetCurrValue()	16	static

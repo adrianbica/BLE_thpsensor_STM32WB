@@ -1,0 +1,3 @@
+template_stm.c:98:30:Template_Event_Handler	48	static
+template_stm.c:181:6:SVCCTL_InitCustomSvc	48	static
+template_stm.c:261:12:TEMPLATE_STM_App_Update_Char	32	static
