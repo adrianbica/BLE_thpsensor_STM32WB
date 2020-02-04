@@ -105,7 +105,7 @@ static SVCCTL_EvtAckStatus_t BLEDevice_Event_Handler(void *Event)
 				 * Notify to application
 				 */
 				uint16_t	value;
-				value = (uint16_t)attribute_modified->Attr_Data[0] + 256 * (uint16_t)attribute_modified->Attr_Data[0];
+				value = (uint16_t)attribute_modified->Attr_Data[0] + 256 * (uint16_t)attribute_modified->Attr_Data[1];
 				SetServoMotorPosition(value);
 			}
 		}
