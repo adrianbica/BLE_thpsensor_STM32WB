@@ -1,4 +1,0 @@
-template_server_app.c:56:6:TEMPLATE_STM_App_Notification	16	static
-template_server_app.c:110:6:TEMPLATE_APP_Init	8	static
-template_server_app.c:125:13:TEMPLATE_APP_context_Init	4	static
-template_server_app.c:130:13:TEMPLATE_Send_Notification_Task	16	static
